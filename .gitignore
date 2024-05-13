@@ -207,6 +207,7 @@ pip-selfcheck.json
 
 # Projeto
 Pipfile
-inventory/olt_dados.csv
+#Alegria
+datasets/olt_dados.csv
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,virtualenv
